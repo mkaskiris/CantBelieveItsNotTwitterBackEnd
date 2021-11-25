@@ -1,4 +1,4 @@
 const server = require('./server')
-const port = process.env.PORT || 3010;
+const port = 'http://www.cantbelieveitsnottwitter.herokuapp.com';
 
-server.listen(port, () => console.log(`Starting on http://localhost:${port}`))
+server.listen(port, () => console.log(`${port}`))
