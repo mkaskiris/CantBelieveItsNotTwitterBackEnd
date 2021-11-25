@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "title": "Was religion created as a control mechanism so that the rich could profit off the poor and vulnerable?",
+        "message": "Religion promises of ever lasting life in so many religions. Looking back this promise often came with a cost.Why is that?",
+        "image": "https://media.giphy.com/media/TdpZPpb7MjzWsoZGGn/giphy.gif",
+        "dislikes": 1,
+        "likes": 9,
+        "love": 4,
+        "comments": [
+            "hello t here"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Was religion created as a control mechanism so that the rich could profit off the poor and vulnerable?",
+        "message": "Religion promises of ever lasting life in so many religions. Looking back this promise often came with a cost.Why is that?",
+        "image": "https://media.giphy.com/media/12NlCFUvTokWXe/giphy.gif",
+        "dislikes": 0,
+        "likes": 1,
+        "love": 30,
+        "comments": [
+            "Cool Post",
+            "Really interest thought",
+            "213"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Was religion created as a control mechanism so that the rich could profit off the poor and vulnerable?",
+        "message": "Religion promises of ever lasting life in so many religions. Looking back this promise often came with a cost.Why is that?",
+        "image": "https://giphy.com/embed/12NlCFUvTokWXe",
+        "dislikes": 0,
+        "likes": 0,
+        "love": 0,
+        "comments": [
+            "Cool Post",
+            "Really interest thought",
+            "yabadabadoooo"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Was religion created as a control mechanism so that the rich could profit off the poor and vulnerable?",
+        "message": "Religion promises of ever lasting life in so many religions. Looking back this promise often came with a cost.Why is that?",
+        "image": "https://giphy.com/embed/12NlCFUvTokWXe",
+        "dislikes": 1,
+        "likes": 1,
+        "love": 2,
+        "comments": [
+            "qweqwe",
+            "nre"
+        ]
+    }
+]
